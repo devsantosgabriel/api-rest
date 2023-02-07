@@ -1,0 +1,1 @@
+# Aplicando as regras de API REST
